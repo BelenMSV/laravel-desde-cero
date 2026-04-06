@@ -16,8 +16,12 @@ A continuación tienes el índice de contenidos. Haz clic en cada módulo para a
 * **[Módulo 2: Rutas y Vistas Blade](./02-rutas-y-vistas-blade/README.md)** ✅
   * Aprende a manejar las URLs de tu aplicación, crear interfaces dinámicas y estructurar plantillas maestras sin repetir código.
 
-* *Módulo 3: Controladores y Arquitectura MVC (En construcción 🚧)*
-* *Módulo 4: Base de Datos y Eloquent (Próximamente 🔜)*
+* **[Módulo 3: Controladores y Arquitectura MVC](./03-controladores-y-mvc/README.md)** ✅
+  * Domina el patrón Modelo-Vista-Controlador. Organiza tu lógica, captura datos de los usuarios con el objeto Request y utiliza controladores de recursos.
+
+* *Módulo 4: Base de Datos y Eloquent (En construcción 🚧)*
+* *Módulo 5: Formularios y Validación (Próximamente 🔜)*
+* *Módulo 6: Proyecto CRUD Completo (Próximamente 🔜)*
 
 ---
 
