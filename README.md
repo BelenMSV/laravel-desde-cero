@@ -13,8 +13,11 @@ A continuación tienes el índice de contenidos. Haz clic en cada módulo para a
 * **[Módulo 1: Introducción y Entorno](./01-introduccion-y-entorno/README.md)** ✅
   * Entiende qué es Laravel, prepara tu entorno local, configura tu editor y da tus primeros pasos con Artisan.
 
-* *Módulo 2: Rutas y Vistas Blade (En construcción 🚧)*
-* *Módulo 3: Controladores y Arquitectura MVC (Próximamente 🔜)*
+* **[Módulo 2: Rutas y Vistas Blade](./02-rutas-y-vistas-blade/README.md)** ✅
+  * Aprende a manejar las URLs de tu aplicación, crear interfaces dinámicas y estructurar plantillas maestras sin repetir código.
+
+* *Módulo 3: Controladores y Arquitectura MVC (En construcción 🚧)*
+* *Módulo 4: Base de Datos y Eloquent (Próximamente 🔜)*
 
 ---
 
