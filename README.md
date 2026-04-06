@@ -1,0 +1,22 @@
+# 🚀 Curso de Laravel Desde Cero
+
+¡Bienvenido! Este repositorio contiene un curso completo, paso a paso y 100% en español para aprender a desarrollar aplicaciones web modernas con **Laravel**, el framework más popular de PHP.
+
+El contenido está estructurado en módulos progresivos. Cada módulo contiene una serie de temas diseñados para llevarte desde los conceptos más básicos hasta la creación de una aplicación real (CRUD).
+
+---
+
+## 📚 Índice del Curso
+
+A continuación tienes el índice de contenidos. Haz clic en cada módulo para acceder a sus temas y comenzar a aprender:
+
+* **[Módulo 1: Introducción y Entorno](./01-introduccion-y-entorno/README.md)** ✅
+  * Entiende qué es Laravel, prepara tu entorno local, configura tu editor y da tus primeros pasos con Artisan.
+
+* *Módulo 2: Rutas y Vistas Blade (En construcción 🚧)*
+* *Módulo 3: Controladores y Arquitectura MVC (Próximamente 🔜)*
+
+---
+
+**💡 ¿Cómo usar este repositorio?**
+Te recomiendo seguir los módulos en orden, ya que el conocimiento se va construyendo de forma acumulativa. Abre las carpetas, lee los archivos `README.md` de cada tema y, ¡sobre todo, practica escribiendo el código en tu propia computadora!
