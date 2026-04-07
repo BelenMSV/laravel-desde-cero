@@ -19,8 +19,10 @@ A continuación tienes el índice de contenidos. Haz clic en cada módulo para a
 * **[Módulo 3: Controladores y Arquitectura MVC](./03-controladores-y-mvc/README.md)** ✅
   * Domina el patrón Modelo-Vista-Controlador. Organiza tu lógica, captura datos de los usuarios con el objeto Request y utiliza controladores de recursos.
 
-* *Módulo 4: Base de Datos y Eloquent (En construcción 🚧)*
-* *Módulo 5: Formularios y Validación (Próximamente 🔜)*
+* **[Módulo 4: Base de Datos y Eloquent](./04-base-de-datos-y-eloquent/README.md)** ✅
+  * Conecta tu aplicación a la base de datos. Domina las Migraciones, genera datos de prueba con Factories/Seeders y realiza consultas profesionales con Eloquent ORM y sus relaciones.
+
+* *Módulo 5: Formularios y Validación (En construcción 🚧)*
 * *Módulo 6: Proyecto CRUD Completo (Próximamente 🔜)*
 
 ---
