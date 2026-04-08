@@ -22,8 +22,10 @@ A continuación tienes el índice de contenidos. Haz clic en cada módulo para a
 * **[Módulo 4: Base de Datos y Eloquent](./04-base-de-datos-y-eloquent/README.md)** ✅
   * Conecta tu aplicación a la base de datos. Domina las Migraciones, genera datos de prueba con Factories/Seeders y realiza consultas profesionales con Eloquent ORM y sus relaciones.
 
-* *Módulo 5: Formularios y Validación (En construcción 🚧)*
-* *Módulo 6: Proyecto CRUD Completo (Próximamente 🔜)*
+* **[Módulo 5: Formularios y Validación](./05-formularios-y-validacion/README.md)** ✅
+  * Asegura tu aplicación y mejora la experiencia del usuario. Aprende a manejar peticiones de forma segura (CSRF, Spoofing), validar datos con Form Requests y subir archivos al servidor.
+
+* *Módulo 6: Proyecto CRUD Completo (En construcción 🚧)*
 
 ---
 
