@@ -25,7 +25,10 @@ A continuación tienes el índice de contenidos. Haz clic en cada módulo para a
 * **[Módulo 5: Formularios y Validación](./05-formularios-y-validacion/README.md)** ✅
   * Asegura tu aplicación y mejora la experiencia del usuario. Aprende a manejar peticiones de forma segura (CSRF, Spoofing), validar datos con Form Requests y subir archivos al servidor.
 
-* *Módulo 6: Proyecto CRUD Completo (En construcción 🚧)*
+* **[Módulo 6: Proyecto CRUD Completo](./06-proyecto-crud/README.md)** ✅
+  * ¡Construye un Catálogo de Productos real! Une todas las piezas aplicando paginación, subida de imágenes, barras de búsqueda y borrados lógicos (Soft Deletes).
+
+* *Módulo 7: Automatización y Procesos Avanzados (En construcción 🚧)*
 
 ---
 
