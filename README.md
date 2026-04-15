@@ -6,6 +6,14 @@ El contenido está estructurado en módulos progresivos. Cada módulo contiene u
 
 ---
 
+## ℹ️ Información del Curso
+
+* **Nivel:** Todos los niveles (De cero a avanzado).
+* **Duración estimada:** 50 - 65 horas de práctica intensiva.
+* **Requisitos:** Conocimientos básicos de PHP y HTML.
+
+---
+
 ## 📚 Índice del Curso
 
 A continuación tienes el índice de contenidos. Haz clic en cada módulo para acceder a sus temas y comenzar a aprender:
@@ -28,9 +36,13 @@ A continuación tienes el índice de contenidos. Haz clic en cada módulo para a
 * **[Módulo 6: Proyecto CRUD Completo](./06-proyecto-crud/README.md)** ✅
   * ¡Construye un Catálogo de Productos real! Une todas las piezas aplicando paginación, subida de imágenes, barras de búsqueda y borrados lógicos (Soft Deletes).
 
-* *Módulo 7: Automatización y Procesos Avanzados (En construcción 🚧)*
+* **[Módulo 7: Automatización y Procesos Avanzados](./07-automatizacion-y-procesos/README.md)** ✅
+  * Comandos Artisan, Scheduler, Mailables, Colas (Queues) y generación de PDFs.
 
 ---
 
 **💡 ¿Cómo usar este repositorio?**
 Te recomiendo seguir los módulos en orden, ya que el conocimiento se va construyendo de forma acumulativa. Abre las carpetas, lee los archivos `README.md` de cada tema y, ¡sobre todo, practica escribiendo el código en tu propia computadora!
+
+---
+*Desarrollado con ❤️ para la comunidad de PHP.*
